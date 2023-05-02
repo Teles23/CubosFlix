@@ -1,0 +1,30 @@
+body,
+.header {
+  background-color: var(--background-dark);
+}
+.input {
+  background-color: var(--bg-input);
+  color: var(--text-color-white);
+}
+.header__title {
+  color: var(--text-color-white);
+}
+.movies-container,
+.highlight {
+  background-color: var(--bg-secondary-dark);
+}
+.input::placeholder {
+  color: var(--text-color-white);
+}
+.highlight__description {
+  color: var(--text-color-white);
+}
+.highlight__launch {
+  color: var(--text-color-white);
+}
+.highlight__genres {
+  color: var(--text-color-white);
+}
+.highlight__title {
+  color: var(--text-color-white);
+}
