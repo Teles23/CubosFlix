@@ -186,6 +186,7 @@ function changeTheme() {
 		btnNext.src = "assets/arrow-right-dark.svg";
 		btnPrev.src = "assets/arrow-left-dark.svg";
 		btnTheme.src = "./assets/light-mode.svg";
+		btnClose.src = "./assets/dark-close.svg";
 		root.style.setProperty("--background", "#fff");
 		root.style.setProperty("--text-color", "#1b2028");
 		root.style.setProperty("--bg-secondary", "#ededed");
